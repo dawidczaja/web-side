@@ -1,0 +1,7 @@
+body{background-image: url(3350915.jpg);background-repeat: no-repeat; background-attachment:fixed;}
+h1{position:relative; font: 55px Verdana;color:black; text-align:center; text-shadow: 3px 3px 0 rgba(173,173,173,1);}
+h2{position:relative; color:black; text-align:center; font: 30px Times; text-shadow: 1px 1px 0 rgba(0,0,0,0.5);}
+section{position: absolute; right:10px; top:100px}
+article{background-color: white; text-align:justify; font: 20px Verdana}
+ul{position:relative; left:300px; font: 20px Verdana}
+aside{position:relative; text-align:center; backgroud-color:white}
